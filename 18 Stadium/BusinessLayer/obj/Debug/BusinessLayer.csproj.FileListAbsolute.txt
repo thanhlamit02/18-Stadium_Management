@@ -1,0 +1,34 @@
+E:\Downloads\StadiumManagement\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+E:\Downloads\StadiumManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Downloads\StadiumManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Downloads\StadiumManagement\BusinessLayer\bin\Debug\AutoMapper.dll
+E:\Downloads\StadiumManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\Downloads\StadiumManagement\BusinessLayer\bin\Debug\EntityFramework.dll
+E:\Downloads\StadiumManagement\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Downloads\StadiumManagement\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Downloads\StadiumManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Downloads\StadiumManagement\BusinessLayer\bin\Debug\AutoMapper.xml
+E:\Downloads\StadiumManagement\BusinessLayer\bin\Debug\EntityFramework.xml
+E:\Downloads\StadiumManagement\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Downloads\StadiumManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+E:\Downloads\StadiumManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Downloads\StadiumManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+E:\Downloads\StadiumManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Downloads\StadiumManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\BusinessLayer\bin\Debug\AutoMapper.dll
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\BusinessLayer\bin\Debug\EntityFramework.dll
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\BusinessLayer\bin\Debug\AutoMapper.xml
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\BusinessLayer\bin\Debug\EntityFramework.xml
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date

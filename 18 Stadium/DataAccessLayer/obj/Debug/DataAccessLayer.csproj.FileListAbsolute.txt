@@ -1,0 +1,24 @@
+E:\Downloads\StadiumManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Downloads\StadiumManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Downloads\StadiumManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Downloads\StadiumManagement\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\Downloads\StadiumManagement\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Downloads\StadiumManagement\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\Downloads\StadiumManagement\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Downloads\StadiumManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Downloads\StadiumManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Downloads\StadiumManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\Downloads\StadiumManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Downloads\StadiumManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date

@@ -1,0 +1,80 @@
+E:\Downloads\StadiumManagement\StadiumManagement\bin\Debug\GUILayer.exe.config
+E:\Downloads\StadiumManagement\StadiumManagement\bin\Debug\GUILayer.exe
+E:\Downloads\StadiumManagement\StadiumManagement\bin\Debug\GUILayer.pdb
+E:\Downloads\StadiumManagement\StadiumManagement\bin\Debug\BusinessLayer.dll
+E:\Downloads\StadiumManagement\StadiumManagement\bin\Debug\EntityFramework.dll
+E:\Downloads\StadiumManagement\StadiumManagement\bin\Debug\EntityFramework.SqlServer.dll
+E:\Downloads\StadiumManagement\StadiumManagement\bin\Debug\FontAwesome.Sharp.dll
+E:\Downloads\StadiumManagement\StadiumManagement\bin\Debug\MaterialSkin.dll
+E:\Downloads\StadiumManagement\StadiumManagement\bin\Debug\AutoMapper.dll
+E:\Downloads\StadiumManagement\StadiumManagement\bin\Debug\DataAccessLayer.dll
+E:\Downloads\StadiumManagement\StadiumManagement\bin\Debug\BusinessLayer.pdb
+E:\Downloads\StadiumManagement\StadiumManagement\bin\Debug\BusinessLayer.dll.config
+E:\Downloads\StadiumManagement\StadiumManagement\bin\Debug\EntityFramework.xml
+E:\Downloads\StadiumManagement\StadiumManagement\bin\Debug\EntityFramework.SqlServer.xml
+E:\Downloads\StadiumManagement\StadiumManagement\bin\Debug\AutoMapper.xml
+E:\Downloads\StadiumManagement\StadiumManagement\bin\Debug\DataAccessLayer.pdb
+E:\Downloads\StadiumManagement\StadiumManagement\bin\Debug\DataAccessLayer.dll.config
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.csproj.AssemblyReference.cache
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.SubForm.FormChiTietBill.resources
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.SubForm.FormDatDichVu.resources
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.SubForm.FormDatSan.resources
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.FormDSKH.resources
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.FormDSNV.resources
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.FormQLDichVu.resources
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.FormQLSan.resources
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.FormTaiKhoan.resources
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.FormHoaDon.resources
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.FormThietLap.resources
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.FormThongKe.resources
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.SubForm.FormChonDichVu.resources
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.SubForm.FormChonSan.resources
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.FormAlert.resources
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.FormControl.resources
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.FormLogin.resources
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.Properties.Resources.resources
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.csproj.GenerateResource.cache
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.csproj.CoreCompileInputs.cache
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.csproj.CopyComplete
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.exe
+E:\Downloads\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.pdb
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\bin\Debug\GUILayer.exe.config
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\bin\Debug\GUILayer.exe
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\bin\Debug\GUILayer.pdb
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\bin\Debug\BusinessLayer.dll
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\bin\Debug\EntityFramework.dll
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\bin\Debug\EntityFramework.SqlServer.dll
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\bin\Debug\FontAwesome.Sharp.dll
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\bin\Debug\MaterialSkin.dll
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\bin\Debug\AutoMapper.dll
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\bin\Debug\DataAccessLayer.dll
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\bin\Debug\BusinessLayer.pdb
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\bin\Debug\BusinessLayer.dll.config
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\bin\Debug\EntityFramework.xml
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\bin\Debug\EntityFramework.SqlServer.xml
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\bin\Debug\AutoMapper.xml
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\bin\Debug\DataAccessLayer.pdb
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\bin\Debug\DataAccessLayer.dll.config
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.csproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.SubForm.FormChiTietBill.resources
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.SubForm.FormDatDichVu.resources
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.SubForm.FormDatSan.resources
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.FormDSKH.resources
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.FormDSNV.resources
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.FormQLDichVu.resources
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.FormQLSan.resources
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.FormTaiKhoan.resources
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.FormHoaDon.resources
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.FormThietLap.resources
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.FormThongKe.resources
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.SubForm.FormChonDichVu.resources
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.ChildForm.SubForm.FormChonSan.resources
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.FormAlert.resources
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.FormControl.resources
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.FormLogin.resources
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.Properties.Resources.resources
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.csproj.GenerateResource.cache
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.csproj.CoreCompileInputs.cache
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.exe
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.pdb
+E:\Documents\Giao trinh hoc online\4th year\DATN\StadiumManagement\StadiumManagement\obj\Debug\GUILayer.csproj.Up2Date
